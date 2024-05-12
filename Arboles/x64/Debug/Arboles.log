@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\Visual Studio\Repos\Arboles\MenuBienvenida.h(403,153): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+E:\Visual Studio\Repos\Arboles\MenuBienvenida.h(403,146): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+E:\Visual Studio\Repos\Arboles\MenuBienvenida.h(425,19): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Arboles.vcxproj -> E:\Visual Studio\Repos\Arboles\x64\Debug\Arboles.exe

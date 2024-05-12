@@ -1,0 +1,3 @@
+E:\Visual Studio\Repos\Arboles\Arboles\x64\Debug\Arboles.vcxproj.AssemblyReference.cache
+E:\Visual Studio\Repos\Arboles\Arboles\x64\Debug\Arboles.MenuBienvenida.resources
+E:\Visual Studio\Repos\Arboles\Arboles\x64\Debug\Arboles.vcxproj.GenerateResource.cache
